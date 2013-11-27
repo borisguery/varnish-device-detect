@@ -1,2 +1,2 @@
 # Ignore the generated test
-tests/devicedetect/100-from-controlset.vtc
+tests/devicedetect/9*-from-controlset.vtc
