@@ -1,234 +1,49 @@
-mobile|blackberry|BlackBerry9300/5.0.0.845 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/118
+generic|unknown|DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+generic|unknown|SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+mobile|android|320|480|Mozilla/4.0 (compatible; MSIE 8.0; Android 2.2.2; Linux; Opera Mobi/ADR-1103311355; en) Opera 11.00 VM2809:2
+mobile|android|320|480|Mozilla/5.0 (Android 2.2.2; Linux; Opera Mobi/ADR-1103311355; U; en; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 11.00 VM2809:2
+mobile|android|320|480|Mozilla/5.0 (Linux; U; Android 2.2.1; en-ca; LG-P505R Build/FRG83) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 VM2809:2
+mobile|android|320|480|Mozilla/5.0 (Linux; U; Android 2.2; en-us; T-Mobile HTC_G2 Build/FRF91) Gecko/20110415 Firefox/4.0.2pre Fennec/4.0.1 VM2809:2
+mobile|android|320|480|Mozilla/5.0 (Linux; U; Android 2.2; fr-lu; HTC Legend Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 VM2809:2
+mobile|android|320|480|Mozilla/5.0 (Linux; U; Android 2.3.3; en-us; HTC_DesireS_S510e Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 VM2809:2
+mobile|android|320|480|Mozilla/5.0 (Linux; U; Android 2.3.3; en-us; HTC_DesireS_S510e Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile VM2809:2
+mobile|android|320|480|Mozilla/5.0 (Linux; U; Android 2.3.3; ko-kr; LG-LU3000 Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 VM2809:2
+mobile|android|320|480|Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; T-Mobile myTouch 3G Slide Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 VM2809:2
+mobile|android|320|480|Mozilla/5.0 (Linux; U; Android 2.3.5; en-us; HTC Vision Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 VM2809:2
+mobile|android|320|480|Mozilla/5.0 (Linux; U; Android 4.0.3; ko-kr; LG-L160L Build/IML74K) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 VM2809:2
+mobile|android|320|480|Opera/9.80 (Android 2.2.1; Linux; Opera Mobi/ADR-1107051709; U; pl) Presto/2.8.149 Version/11.10 VM2809:2
+mobile|android|320|480|Opera/9.80 (Android 2.2; Linux; Opera Mobi/8745; U; en) Presto/2.7.60 Version/10.5 VM2809:2
+mobile|android|320|480|Opera/9.80 (Android 2.2; Linux; Opera Mobi/ADR-2093533120; U; pl) Presto/2.7.60 Version/10.5 VM2809:2
+mobile|android|320|480|Opera/9.80 (Android 2.2; Linux; Opera Mobi/ADR-2093533312; U; pl) Presto/2.7.60 Version/10.5 VM2809:2
+mobile|android|320|480|Opera/9.80 (Android 2.2; Opera Mobi/-2118645896; U; pl) Presto/2.7.60 Version/10.5 VM2809:2
+mobile|android|320|480|Opera/9.80 (Android 2.2; Opera Mobi/ADR-2093533608; U; pl) Presto/2.7.60 Version/10.5 VM2809:2
+mobile|android|320|480|Opera/9.80 (Android 2.2;;; Linux; Opera Mobi/ADR-1012291359; U; en) Presto/2.7.60 Version/10.5 VM2809:2
+mobile|android|320|480|Opera/9.80 (Android 2.3.3; Linux; Opera Mobi/ADR-1111101157; U; es-ES) Presto/2.9.201 Version/11.50 VM2809:2
+mobile|android|320|480|Opera/9.80 (Android 2.3.4; Linux; Opera Mobi/build-1107180945; U; en-GB) Presto/2.8.149 Version/11.10 VM2809:2
+mobile|android|320|480|Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Linux; U; Android 2.2; en-sa; HTC_DesireHD_A9191 Build/24.741; U; en) Presto/2.5.25 Version/10.54 VM2809:2
+mobile|android|320|480|Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Linux; U; Android 2.2; fr-lu; HTC Legend Build/24.838; U; en) Presto/2.5.25 Version/10.54 VM2809:2
+mobile|android|480|800|Mozilla/5.0 (Android 2.2; zh-cn; HTC Desire)/GoBrowser VM2809:2
+mobile|android|480|800|Mozilla/5.0 (Linux; U; Android 2.2.1; en-gb; HTC_DesireZ_A7272 Build/FRG83D) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 VM2809:2
+mobile|android|480|800|Mozilla/5.0 (Linux; U; Android 2.2.1; fr-fr; HTC_DesireZ_A7272 Build/FRG83D) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 VM2809:2
+mobile|android|480|800|Mozilla/5.0 (Linux; U; Android 2.2; en-sa; HTC_DesireHD_A9191 Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 VM2809:2
+mobile|android|480|800|Mozilla/5.0 (Linux; U; Android 2.3.3; de-ch; HTC Desire Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 VM2809:2
+mobile|android|480|800|Mozilla/5.0 (Linux; U; Android 2.3.3; de-de; HTC Desire Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 VM2809:2
+mobile|android|480|800|Mozilla/5.0 (Linux; U; Android 2.3.4; fr-fr; HTC Desire Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 VM2809:2
+mobile|android|480|800|Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; HTC_IncredibleS_S710e Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 VM2809:2
+mobile|android|540|960|Mozilla/5.0 (Linux; U; Android 2.3.3; zh-tw; HTC Pyramid Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 VM2809:2
+mobile|android|540|960|Mozilla/5.0 (Linux; U; Android 2.3.3; zh-tw; HTC_Pyramid Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari VM2809:2
+mobile|android|540|960|Mozilla/5.0 (Linux; U; Android 2.3.3; zh-tw; HTC_Pyramid Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 VM2809:2
+mobile|android|540|960|Mozilla/5.0 (Linux; U; Android 4.0.3; de-ch; HTC Sensation Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 VM2809:2
 mobile|android|Dalvik/1.1.0 (Linux; U; Android 2.1-update1; GT-I5801 Build/ECLAIR)
 mobile|android|Dalvik/1.1.0 (Linux; U; Android 2.1-update1; X10i Build/2.0.A.0.504)
 mobile|android|Dalvik/1.2.0 (Linux; U; Android 2.2.1; HTC Wildfire Build/FRG83D)
 mobile|android|Dalvik/1.4.0 (Linux; U; Android 2.3.3; GT-S5830 Build/GINGERBREAD)
 mobile|android|Dalvik/1.4.0 (Linux; U; Android 2.3.4; GT-I9100 Build/GINGERBREAD)
 mobile|android|Dalvik/1.4.0 (Linux; U; Android 2.3.6; GT-S5839i Build/GINGERBREAD)
-generic|unknown|DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
-generic|unknown|MobileSafari/6533.18.5 CFNetwork/485.13.9 Darwin/11.0.0
-generic|unknown|MobileSafari/8536.25 CFNetwork/609.1.4 Darwin/13.0.0
-generic|unknown|MobileSafari/8536.25 CFNetwork/609 Darwin/13.0.0
-generic|unknown|MobileSafari/9537.53 CFNetwork/672.0.2 Darwin/14.0.0
-generic|unknown|MobileSafari/9537.53 CFNetwork/672.0.8 Darwin/14.0.0
 mobile|android|Mozilla/5.0 (Android; Mobile; rv:23.0) Gecko/23.0 Firefox/23.0
-mobile|android|Mozilla/5.0 (Android; Mobile; rv:25.0.1) Gecko/25.0.1 Firefox/25.0.1
 mobile|android|Mozilla/5.0 (Android; Mobile; rv:25.0) Gecko/25.0 Firefox/25.0
+mobile|android|Mozilla/5.0 (Android; Mobile; rv:25.0.1) Gecko/25.0.1 Firefox/25.0.1
 mobile|android|Mozilla/5.0 (Android; Mobile; rv:26.0) Gecko/26.0 Firefox/26.0
-tablet|android|Mozilla/5.0 (Android; Tablet; rv:23.0) Gecko/23.0 Firefox/23.0
-tablet|android|Mozilla/5.0 (Android; Tablet; rv:25.0.1) Gecko/25.0.1 Firefox/25.0.1
-mobile|blackberry|Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.1483 Mobile Safari/537.10+
-mobile|blackberry|Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.2342 Mobile Safari/537.10+
-mobile|blackberry|Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.4633 Mobile Safari/537.10+
-mobile|blackberry|Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.2.0.1791 Mobile Safari/537.35+
-mobile|blackberry|Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.4633 Mobile Safari/537.10+
-mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9300; fr) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.576 Mobile Safari/534.8+
-mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9320; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.1.0.398 Mobile Safari/534.11+
-mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9320; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.1.0.714 Mobile Safari/534.11+
-mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9360; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.353 Mobile Safari/534.11+
-mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9360; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.590 Mobile Safari/534.11+
-mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9380; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.513 Mobile Safari/534.11+
-mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9700; fr) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.615 Mobile Safari/534.8+
-mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9780; fr) AppleWebKit/534.1+ (KHTML, like Gecko) Version/6.0.0.285 Mobile Safari/534.1+
-mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9780; fr) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.668 Mobile Safari/534.8+
-mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9790; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.557 Mobile Safari/534.11+
-mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; fr) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.546 Mobile Safari/534.8+
-mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9860; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.1.0.714 Mobile Safari/534.11+
-mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9900; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.590 Mobile Safari/534.11+
-mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9900; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.1.0.342 Mobile Safari/534.11+
-mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9900; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.1.0.714 Mobile Safari/534.11+
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8S by HTC)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8S by HTC; 1.04.163.03)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8S by HTC; 2.00.163.02)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8S by HTC; 3.29.163.01)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8S by HTC; 4.05.163.02)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8S by HTC; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8X by HTC)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8X by HTC; 1.00.163.03)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8X by HTC; 2.01.163.00)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8X by HTC; 4.12.163.01)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8X by HTC; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; 909)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 620)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 625)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 625; BOUYGUES TELECOM)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 625; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 720)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 820)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 820; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 920)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 920; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 920; Vodafone)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 925)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 925; BOUYGUES TELECOM)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 925; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Nokia 920)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; SAMSUNG; GT-I8750)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Acer; Allegro; bouygues)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; 7 Mozart; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Radar C110e)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Radar; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; TITAN X310e; 4.06.163.03)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Windows Phone 8S by HTC)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Windows Phone 8S by HTC; 3.29.163.01)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Windows Phone 8S by HTC; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Windows Phone 8X by HTC)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; LG; LG-C900)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; LG; LG-E900; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; 909)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 510)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 520)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 520; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 610)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 610; 610 BOUYGUES)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 610 NFC; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 610; SFR)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 620)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 625)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 625; BOUYGUES TELECOM)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 625; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 710)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 710; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 800)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 800; 800 BOUYGUES)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 800; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 800; SFR)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 820)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 900)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 900; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 920)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 920; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 920; Vodafone)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 925)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 925; BOUYGUES TELECOM)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; SAMSUNG; GT-I8750)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; SAMSUNG; OMNIA7)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; SAMSUNG; OMNIA7; Orange)
-mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; SAMSUNG; SGH-i917)
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A523 Safari/8536.25
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/28.0.1500.12 Mobile/10B146 Safari/8536.25
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B146 Safari/8536.25
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B147 Safari/8536.25
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.1.0.23513 Mobile/10B329 Safari/8536.25
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 [FBAN/FBIOS;FBAV/6.7.1;FBBV/583225;FBDV/iPad3,4;FBMD/iPad;FBSN/iPhone OS;FBSV/6.1.3;FBSS/2; FBCR/;FBID/tablet;FBLC/fr_FR;FBOP/1]
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B141 Safari/8536.25
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A501 [FBAN/FBIOS;FBAV/6.7;FBBV/566055;FBDV/iPad2,2;FBMD/iPad;FBSN/iPhone OS;FBSV/7.0.2;FBSS/1; FBCR/Carrier;FBID/tablet;FBLC/fr_FR;FBOP/1]
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A501 Safari/9537.53
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/28.0.1500.16 Mobile/11B511 Safari/8536.25
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.1.0.23513 Mobile/11B511 Safari/8536.25
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/30.0.1599.16 Mobile/11B511 Safari/8536.25
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511 [FBAN/FBIOS;FBAV/6.7.1;FBBV/583225;FBDV/iPad3,1;FBMD/iPad;FBSN/iPhone OS;FBSV/7.0.3;FBSS/2; FBCR/;FBID/tablet;FBLC/fr_FR;FBOP/1]
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511 [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPad2,2;FBMD/iPad;FBSN/iPhone OS;FBSV/7.0.3;FBSS/1; FBCR/Proximus;FBID/tablet;FBLC/fr_FR;FBOP/1]
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B511 Safari/9537.53
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.1.0.23513 Mobile/11B554a Safari/8536.25
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/30.0.1599.16 Mobile/11B554a Safari/8536.25
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.6;FBBV/446101;FBDV/iPad2,4;FBMD/iPad;FBSN/iPhone OS;FBSV/7.0.4;FBSS/1; FBCR/;FBID/tablet;FBLC/fr_FR;FBOP/1]
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPad2,5;FBMD/iPad;FBSN/iPhone OS;FBSV/7.0.4;FBSS/1; FBCR/;FBID/tablet;FBLC/fr_FR;FBOP/1]
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a Twitter for iPhone
-tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53
-tablet|ios|Mozilla/5.0 (iPad; U; CPU OS 4_2_1 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
-tablet|ios|Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
-tablet|ios|Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J3 Safari/6533.18.5
-tablet|ios|Mozilla/5.0 (iPad; U; CPU OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3
-tablet|ios|Mozilla/5.0 (iPad; U; CPU OS 5_0 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3
-tablet|ios|Mozilla/5.0 (iPad;U;CPU OS 5_1_1 like Mac OS X; zh-cn)AppleWebKit/534.46.0(KHTML, like Gecko)CriOS/19.0.1084.60 Mobile/9B206 Safari/7534.48.3
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Mobile/9A405
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A406 Safari/7534.48.3
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) CriOS/29.0.1547.11 Mobile/9B206 Safari/7534.48.3
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10A523
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10A523 [FBAN/FBIOS;FBAV/6.5;FBBV/362526;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.0.1;FBSS/2; FBCR/OrangeFrance;FBID/phone;FBLC/fr_FR;
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A523 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A525 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A551 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B145 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/31.0.1650.18 Mobile/10B146 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B146 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/30.0.1599.16 Mobile/10B329 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.1.0.23513 Mobile/10B329 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 [FBAN/FBIOS;FBAV/6.4;FBBV/290891;FBDV/iPhone3,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.1.3;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP/1]
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 [FBAN/FBIOS;FBAV/6.6;FBBV/446101;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.1.3;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP/5]
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 [FBAN/FBIOS;FBAV/6.6;FBBV/446101;FBDV/iPhone3,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.1.3;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP/5]
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.1.3;FBSS/2; FBCR/Carrier;FBID/phone;FBLC/en_US;FBO
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.1.3;FBSS/2; FBCR/Carrier;FBID/phone;FBLC/nl_NL;FBO
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone4,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.1.3;FBSS/2; FBCR/BouyguesTelecom;FBID/phone;FBLC/f
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 Twitter for iPhone
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B143 Twitter for iPhone
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B142 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B143 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/31.0.1650.18 Mobile/11A501 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A501
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A501 [FBAN/FBIOS;FBAV/6.7;FBBV/566055;FBDV/iPhone4,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.2;FBSS/2; FBCR/OrangeFrance;FBID/phone;FBLC/fr_F
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A501 Safari/9537.53
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.1.0.23513 Mobile/11B511 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/31.0.1650.18 Mobile/11B511 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511 [FBAN/FBIOS;FBAV/6.6;FBBV/446101;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.3;FBSS/2; FBCR/OrangeFrance;FBID/phone;FBLC/fr_F
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511 [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone4,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.3;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP/
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511 [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone6,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.3;FBSS/2; FBCR/Carrier;FBID/phone;FBLC/fr_FR;F
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511 [FBAN/FBIOS;FBAV/6.7;FBBV/566055;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.3;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP/5]
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511 Twitter for iPhone
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B511 Safari/9537.53
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.1.0.23513 Mobile/11B554a Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/31.0.1650.18 Mobile/11B554a Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/MobileTeleSystems;FBID/phone;F
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone4,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/BouyguesTelecom;FBID/phone;FBL
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/BouyguesTelecom;FBID/phone;FBL
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/Carrier;FBID/phone;FBLC/fr_FR;
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/Free;FBID/phone;FBLC/fr_FR;FBO
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/Orange;FBID/phone;FBLC/fr_FR;F
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/OrangeFrance;FBID/phone;FBLC/f
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,3;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/Mobistar;FBID/phone;FBLC/fr_FR
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,4;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/Free;FBID/phone;FBLC/fr_FR;FBO
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,4;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone6,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/BouyguesTelecom;FBID/phone;FBL
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone6,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/Orange;FBID/phone;FBLC/fr_FR;F
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7;FBBV/566055;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/BouyguesTelecom;FBID/phone;FBLC/
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7;FBBV/566055;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP/5
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7;FBBV/566055;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/Virgin;FBID/phone;FBLC/fr_FR;FBO
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7;FBBV/566055;FBDV/iPhone4,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/Mobistar;FBID/phone;FBLC/fr_FR;F
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7;FBBV/566055;FBDV/iPhone5,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/fido;FBID/phone;FBLC/fr_FR;FBOP/
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a Twitter for iPhone
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.1.0.23513 Mobile/11A465 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A465
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A465 [FBAN/FBIOS;FBAV/5.2.2;FBBV/82131;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0;FBSS/2; FBCR/BouyguesTelecom;FBID/phone;FBLC/fr_F
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A465 [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone4,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP/5]
-mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53
-mobile|ios|Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1 like Mac OS X; fr-fr) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7C144 Safari/528.16
-mobile|ios|Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_0 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8A293 Safari/6531.22.7
-mobile|ios|Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; fr-fr) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7
-mobile|ios|Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; fr-fr) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/9A405 Safari/6531.22.7
-mobile|ios|Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
-mobile|ios|Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_4 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5
-mobile|ios|Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8F190 Safari/6533.18.5
-mobile|ios|Mozilla/5.0 (iPhone; U; CPU iPhone OS 6_1_3 like Mac OS X; fr_FR) AppleWebKit (KHTML, like Gecko) Mobile [FBAN/FBForIPhone;FBAV/4.1;FBBV/4100.0;FBDV/iPhone3,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.1.3;FBSS/2; FBCR/OrangeFrance;FBID/phone;FBLC/fr_F
-mobile|ios|Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en) AppleWebKit/420+ (KHTML, like Gecko) Version/3.0 Mobile/1A543a Safari/419.3
-mobile|ios|Mozilla/5.0 (iPod; CPU iPhone OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3
-mobile|ios|Mozilla/5.0 (iPod; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A523 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPod; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPod; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.1.0.23513 Mobile/10B329 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPod; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329
-mobile|ios|Mozilla/5.0 (iPod; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPod; CPU iPhone OS 6_1_5 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B400 Safari/8536.25
-mobile|ios|Mozilla/5.0 (iPod touch; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53
-mobile|ios|Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2_1 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
-mobile|ios|Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3_3 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
 mobile|android|Mozilla/5.0 (Linux; Android 4.0.4; GT-I9300 Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.0.4; GT-I9300 Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.92 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.0.4; GT-S7560 Build/IMM76I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
@@ -236,9 +51,6 @@ mobile|android|Mozilla/5.0 (Linux; Android 4.0.4; LT30p Build/7.0.A.1.303) Apple
 mobile|android|Mozilla/5.0 (Linux; Android 4.0.4; LT30p Build/7.0.A.3.195) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19
 mobile|android|Mozilla/5.0 (Linux; Android 4.0.4; WIKO-CINK SLIM Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.92 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.0.4; WIKO-CINK SLIM Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
-tablet|android|Mozilla/5.0 (Linux; Android 4.1.1; A210 Build/JRO03H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
-tablet|android|Mozilla/5.0 (Linux; Android 4.1.1; Arc Build/JRO03L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
-tablet|android|Mozilla/5.0 (Linux; Android 4.1.1; ASUS Transformer Pad TF300T Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19
 mobile|android|Mozilla/5.0 (Linux; Android 4.1.1; C1505 Build/11.3.A.2.13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.1.1; GT-I8190 Build/JRO03H) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19
 mobile|android|Mozilla/5.0 (Linux; Android 4.1.1; GT-I8190 Build/JRO03H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
@@ -265,10 +77,8 @@ mobile|android|Mozilla/5.0 (Linux; Android 4.1.2; GT-I9300 Build/JZO54K) AppleWe
 mobile|android|Mozilla/5.0 (Linux; Android 4.1.2; GT-I9300 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.92 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.1.2; GT-I9305 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.1.2; GT-I9305 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
-tablet|android|Mozilla/5.0 (Linux; Android 4.1.2; GT-N5110 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.1.2; GT-N7100 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.1.2; GT-N7105 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
-tablet|android|Mozilla/5.0 (Linux; Android 4.1.2; GT-P5110 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.1.2; LG-E460 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.1.2; LG-P760 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.1.2; LG-P875 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
@@ -281,35 +91,28 @@ mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; C6603 Build/10.3.1.A.2.67) App
 mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; C6603 Build/10.3.1.A.2.74) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.92 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; C6603 Build/10.3.1.A.2.74) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; C6903 Build/14.1.G.2.257) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
-mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; fr-fr; SAMSUNG GT-I9205/I9205XXUAMG7 Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Version/1.0 Chrome/18.0.1025.308 Mobile Safari/535.19
-mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; fr-fr; SAMSUNG GT-I9505 Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Version/1.0 Chrome/18.0.1025.308 Mobile Safari/535.19
-mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; fr-fr; SAMSUNG GT-I9505/I9505XXUDMH6 Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Version/1.0 Chrome/18.0.1025.308 Mobile Safari/535.19
-mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; fr-fr; SAMSUNG GT-I9505-ORANGE Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Version/1.0 Chrome/18.0.1025.308 Mobile Safari/535.19
 mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; GT-I9100 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; GT-I9195 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; GT-I9505 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.92 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; GT-I9505 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
-tablet|android|Mozilla/5.0 (Linux; Android 4.2.2; GT-P5210 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; HTC One mini Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; OZZY Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; SC-04E Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36
+mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; fr-fr; SAMSUNG GT-I9205/I9205XXUAMG7 Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Version/1.0 Chrome/18.0.1025.308 Mobile Safari/535.19
+mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; fr-fr; SAMSUNG GT-I9505 Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Version/1.0 Chrome/18.0.1025.308 Mobile Safari/535.19
+mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; fr-fr; SAMSUNG GT-I9505-ORANGE Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Version/1.0 Chrome/18.0.1025.308 Mobile Safari/535.19
+mobile|android|Mozilla/5.0 (Linux; Android 4.2.2; fr-fr; SAMSUNG GT-I9505/I9505XXUDMH6 Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Version/1.0 Chrome/18.0.1025.308 Mobile Safari/535.19
 mobile|android|Mozilla/5.0 (Linux; Android 4.3.1; Nexus 4 Build/JLS36I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
-mobile|android|Mozilla/5.0 (Linux; Android 4.3; fr-ca; SM-N900W8 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36
-mobile|android|Mozilla/5.0 (Linux; Android 4.3; fr-fr; SAMSUNG GT-I9505 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36
-tablet|android|Mozilla/5.0 (Linux; Android 4.3; fr-fr; SAMSUNG SM-P600 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Safari/537.36
-mobile|android|Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.3; GT-I9505 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
+mobile|android|Mozilla/5.0 (Linux; Android 4.3; Galaxy Nexus Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.3; Nexus 4 Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.111 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.3; Nexus 4 Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36
-tablet|android|Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.3; SM-N9005 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
-tablet|android|Mozilla/5.0 (Linux; Android 4.4; Nexus 10 Build/KRT16S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
+mobile|android|Mozilla/5.0 (Linux; Android 4.3; fr-ca; SM-N900W8 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36
+mobile|android|Mozilla/5.0 (Linux; Android 4.3; fr-fr; SAMSUNG GT-I9505 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.4; Nexus 4 Build/KRT16O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.4; Nexus 4 Build/KRT16S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; Android 4.4; Nexus 5 Build/KRT16M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
-tablet|android|Mozilla/5.0 (Linux; Android 4.4; Nexus 7 Build/KRT16S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Safari/537.36
-tablet|android|Mozilla/5.0 (Linux; Android 4.4; Nexus 7 Build/KRT16S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
-tablet|android|Mozilla/5.0 (Linux; Android 4.4; Nexus 7 Build/KRT16S) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36
 mobile|android|Mozilla/5.0 (Linux; U; Android 2.1-update1; fr-fr; GT-I5801 Build/ECLAIR) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17
 mobile|android|Mozilla/5.0 (Linux; U; Android 2.1-update1; fr-fr; MB525 Build/JRDNEM_U3_2.51.1) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17
 mobile|android|Mozilla/5.0 (Linux; U; Android 2.2.1; fr-fr; GT-S5830-ORANGE Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
@@ -360,9 +163,6 @@ mobile|android|Mozilla/5.0 (Linux; U; Android 2.3.7; fr-fr; MOT-XT615 Build/V1.6
 mobile|android|Mozilla/5.0 (Linux; U; Android 2.3.7; fr-fr; SonyEricssonST25i Build/6.0.B.3.184) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
 mobile|android|Mozilla/5.0 (Linux; U; Android 2.3.7; fr-fr; SonyEricssonST25i Build/6.0.B.3.189) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
 mobile|android|Mozilla/5.0 (Linux; U; Android 2.3.7; fr-fr; SonyEricssonST25i-o Build/6.0.B.3.184) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
-tablet|android|Mozilla/5.0 (Linux; U; Android 3.1; fr-fr; GT-P7310 Build/HMJ37) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13
-tablet|android|Mozilla/5.0 (Linux; U; Android 3.2.1; fr-fr; A500 Build/HTK55D) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13
-tablet|android|Mozilla/5.0 (Linux; U; Android 3.2.1; fr-fr; AT100 Build/HTK55D) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.2; en-us; Galaxy Nexus Build/ICL53F) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.3; fr-ca; T320a-parrot Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.3; fr-ch; HTC_Desire_C Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
@@ -370,10 +170,7 @@ mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.3; fr-fr; GT-I9100 Build/IML74
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.3; fr-fr; LG-P700 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.3; fr-fr; LG-P700-Orange Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.3; fr-fr; SAMSUNG GT-I9100P/I9100PXXLPS Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.0.3; fr-fr; Sony Tablet S Build/TISU0143) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.0.3; fr-fr; Transformer TF101 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.3; fr-fr; U9200 Build/HuaweiU9200) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; SHT21 Build/S2150) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-ca; GT-S7560M Build/IMM76I) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; CINK PEAX Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; GT-I9100 Build/IMM76L; CyanogenMod-9.1.0) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
@@ -381,31 +178,22 @@ mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; GT-I9100P-ORANGE/I91
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; GT-I9300-ORANGE/I9300BVALE4 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; GT-I9300-ORANGE/I9300BVBLH2 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; GT-N7000 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; GT-P5110 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; GT-S7560 Build/IMM76I) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; MK16i Build/4.1.B.0.587) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; Phoenix Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; PROG95B Build/G95-V1.0-2012.12.10) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; Phoenix Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; SAMSUNG GT-I9300/I9300BUALE6 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; STARADDICT II Plus Build/GXI_ZTEV1.0.0B03) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; SonyEricssonLT22i-o Build/6.1.1.B.1.54) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; SonyEricssonMK16i Build/4.1.B.0.587) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; SonyEricssonST25i Build/6.1.1.B.1.10) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; SonyEricssonST25i Build/6.1.1.B.1.54) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; SonyEricssonST27i Build/6.1.1.B.1.54) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; STARADDICT II Plus Build/GXI_ZTEV1.0.0B03) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; WIKO-CINK SLIM Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; XOOM 2 ME Build/7.7.1-128_MZ608-14) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; GT-P5110 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; A210 Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; ARCHOS 101 Titanium Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; CINK+ Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; CINK PEAX Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; E1031 Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; CINK+ Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; GT-N7100-ORANGE/N7100XXALID Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; GT-P5110 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; HTC_Desire_X Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; MID0848 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; MPDC99 BT IPS Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; SAMSUNG GT-I9305/I9305XXALK5 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; SonyC1505-o Build/11.3.A.2.13) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.2; en-gb; GT-I8190 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
@@ -428,14 +216,10 @@ mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-I9300-ORANGE/I930
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-I9305 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-I9305-ORANGE/I9305XXBMA1 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-I9305-ORANGE/I9305XXBMF1 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-N5110 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-N7000 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-N7000 Build/JZO54K; CyanogenMod-JellyBeer) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-N7100 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-N7100-ORANGE/N7100XXDMF1 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-N8010 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-P3110 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-P5110 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; HTC_C525u-orange-LS/2.16.73.3 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; LG-E410i Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; LG-P700 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
@@ -454,37 +238,341 @@ mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; XT890 Build/9.8.2I-5
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.1.2; nb-no; GT-I9100 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.2.1; en-us; Galaxy Nexus Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.2.1; fr-fr; Q5 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.2.2; fr-fr; A1-810 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.2.2; fr-fr; GT-I9505 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.2.2; fr-fr; GT-I9505 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 GSA/3.1.8.914827.arm
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.2.2; fr-fr; GT-P5113 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.2.2; fr-fr; GT-P5210 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.2.2; fr-fr; HTC_One Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.2.2; fr-fr; HTC_One_X/4.17.163.3 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.3.1; fr-ch; GT-I9300 Build/JLS36I) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 CyanogenMod/10.2/i9300
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.3.1; fr-fr; GT-I9305 Build/JLS36I) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 CyanogenMod/10.2/i9305
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.3; fr-fr; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-tablet|android|Mozilla/5.0 (Linux; U; Android 4.3; fr-fr; GT-P5110 Build/JLS36G) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30 CyanogenMod/10.2/p5110
 mobile|android|Mozilla/5.0 (Linux; U; Android 4.3; fr-fr; HTC One Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 mobile|android|Opera/9.80 (Android 2.3.4; Linux; Opera Mobi/ADR-1309251116) Presto/2.11.355 Version/12.10
 mobile|android|Opera/9.80 (Android 2.3.7; Linux; Opera Mobi/ADR-1309251104) Presto/2.11.355 Version/12.10
+mobile|blackberry|176|160|Opera/9.80 (BlackBerry; Opera Mini/5.1.22303/22.387; U; en) Presto/2.5.25 Version/10.54 VM2809:2
+mobile|blackberry|176|160|Opera/9.80 (BlackBerry; Opera Mini/6.24209/27.1366; U; en) Presto/2.8.119 Version/11.10 VM2809:2
+mobile|blackberry|360|480|Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.448 Mobile Safari/534.8+ VM2809:2
+mobile|blackberry|360|480|Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en-GB) AppleWebKit/534.1+ (KHTML, like Gecko) Version/6.0.0.337 Mobile Safari/534.1+ VM2809:2
+mobile|blackberry|360|480|Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en-US) AppleWebKit/534.1+ (KHTML, like Gecko) VM2809:2
+mobile|blackberry|360|480|Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en-US) AppleWebKit/534.1+ (KHTML, like Gecko) Version/6.0.0.201 Mobile Safari/534.1+ VM2809:2
+mobile|blackberry|360|480|Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en-US) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.446 Mobile Safari/534.8+ VM2809:2
+mobile|blackberry|360|480|Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en-US) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.448 Mobile Safari/534.8+ VM2809:2
+mobile|blackberry|360|480|Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en-US) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.450 Mobile Safari/534.8+ VM2809:2
+mobile|blackberry|360|480|Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en-US) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.466 Mobile Safari/534.8+ VM2809:2
+mobile|blackberry|360|480|Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en-US) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.701 Mobile Safari/534.8+ VM2809:2
+mobile|blackberry|360|480|Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; fr) AppleWebKit/534.1+ (KHTML, like Gecko) Version/6.0.0.246 Mobile Safari/534.1+ VM2809:2
+mobile|blackberry|360|480|Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; it) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.668 Mobile Safari/534.8+ VM2809:2
+mobile|blackberry|360|480|Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; tr) AppleWebKit/534.1+ (KHTML, like Gecko) Version/6.0.0.246 Mobile Safari/534.1+ VM2809:2
+mobile|blackberry|360|480|Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; zh-TW) AppleWebKit/534.1+ (KHTML, like Gecko) Version/6.0.0.246 Mobile Safari/534.1+ VM2809:2
+mobile|blackberry|360|480|Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; zh-TW) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.448 Mobile Safari/534.8+ VM2809:2
+mobile|blackberry|360|480|Opera/9.80 (J2ME/MIDP; Opera Mini/4.0 (BlackBerry; U; BlackBerry 9800; en) AppleWebKit/24.705; U; en) Presto/2.5.25 Version/10.54 VM2809:2
+mobile|blackberry|480|360|Mozilla/5.0 (BlackBerry; U; BlackBerry 9700; pt) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.546 Mobile Safari/534.8+ VM2809:2
+mobile|blackberry|480|800|Mozilla/5.0 (BlackBerry; U; BlackBerry 9850; en) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.254 Mobile Safari/534.11+ VM2809:2
+mobile|blackberry|480|800|Mozilla/5.0 (BlackBerry; U; BlackBerry 9850; en-US) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.115 Mobile Safari/534.11+ VM2809:2
+mobile|blackberry|480|800|Mozilla/5.0 (BlackBerry; U; BlackBerry 9850; en-US) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.254 Mobile Safari/534.11+ VM2809:2
+mobile|blackberry|480|800|Mozilla/5.0 (BlackBerry; U; BlackBerry 9860; en-US) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.254 Mobile Safari/534.11+ VM2809:2
+mobile|blackberry|640|480|Mozilla/5.0 (BlackBerry; U; BlackBerry 9900; en) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.1.0.346 Mobile Safari/534.11+ VM2809:2
+mobile|blackberry|90|90|Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (BlackBerry; U; BlackBerry 9800) AppleWebKit/24.783; U; es) Presto/2.5.25 Version/10.54 VM2809:2
+mobile|blackberry|90|90|Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (BlackBerry; U; BlackBerry9800; en-GB) AppleWebKit/24.783; U; en) Presto/2.5.25 Version/10.54 VM2809:2
+mobile|blackberry|90|90|Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.22296; BlackBerry9800; U; AppleWebKit/23.370; U; en) Presto/2.5.25 Version/10.54 VM2809:2
+mobile|blackberry|BlackBerry9300/5.0.0.845 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/118
+mobile|blackberry|Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.1483 Mobile Safari/537.10+
+mobile|blackberry|Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.2342 Mobile Safari/537.10+
+mobile|blackberry|Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.4633 Mobile Safari/537.10+
+mobile|blackberry|Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.2.0.1791 Mobile Safari/537.35+
+mobile|blackberry|Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.1.0.4633 Mobile Safari/537.10+
+mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9300; fr) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.576 Mobile Safari/534.8+
+mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9320; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.1.0.398 Mobile Safari/534.11+
+mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9320; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.1.0.714 Mobile Safari/534.11+
+mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9360; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.353 Mobile Safari/534.11+
+mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9360; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.590 Mobile Safari/534.11+
+mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9380; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.513 Mobile Safari/534.11+
+mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9700; fr) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.615 Mobile Safari/534.8+
+mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9780; fr) AppleWebKit/534.1+ (KHTML, like Gecko) Version/6.0.0.285 Mobile Safari/534.1+
+mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9780; fr) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.668 Mobile Safari/534.8+
+mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9790; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.557 Mobile Safari/534.11+
+mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; fr) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.546 Mobile Safari/534.8+
+mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9860; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.1.0.714 Mobile Safari/534.11+
+mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9900; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.590 Mobile Safari/534.11+
+mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9900; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.1.0.342 Mobile Safari/534.11+
+mobile|blackberry|Mozilla/5.0 (BlackBerry; U; BlackBerry 9900; fr) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.1.0.714 Mobile Safari/534.11+
 mobile|blackberry|Opera/9.80 (BlackBerry; Opera Mini/7.1.32051/32.1312; U; fr) Presto/2.8.119 Version/11.10
 mobile|blackberry|Opera/9.80 (BlackBerry; Opera Mini/7.1.33553/32.1312; U; fr) Presto/2.8.119 Version/11.10
-generic|unknown|SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
-# Known false-positive, currently unmatched||
+mobile|ios|176|160|Opera/9.80 (iPhone; Opera Mini/7.0.4/28.2555; U; fr) Presto/2.8.119 Version/11.10 VM2809:2
+mobile|ios|176|160|Opera/9.80 (iPhone; Opera Mini/7.1.32694/27.1407; U; en) Presto/2.8.119 Version/11.10 VM2809:2
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Mobile/9A405
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A406 Safari/7534.48.3
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) CriOS/29.0.1547.11 Mobile/9B206 Safari/7534.48.3
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10A523
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10A523 [FBAN/FBIOS;FBAV/6.5;FBBV/362526;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.0.1;FBSS/2; FBCR/OrangeFrance;FBID/phone;FBLC/fr_FR;
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A523 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A525 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A551 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B143 Twitter for iPhone
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B142 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B143 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B145 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/31.0.1650.18 Mobile/10B146 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B146 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/30.0.1599.16 Mobile/10B329 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.1.0.23513 Mobile/10B329 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 Twitter for iPhone
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 [FBAN/FBIOS;FBAV/6.4;FBBV/290891;FBDV/iPhone3,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.1.3;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP/1]
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 [FBAN/FBIOS;FBAV/6.6;FBBV/446101;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.1.3;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP/5]
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 [FBAN/FBIOS;FBAV/6.6;FBBV/446101;FBDV/iPhone3,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.1.3;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP/5]
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.1.3;FBSS/2; FBCR/Carrier;FBID/phone;FBLC/en_US;FBO
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.1.3;FBSS/2; FBCR/Carrier;FBID/phone;FBLC/nl_NL;FBO
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone4,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.1.3;FBSS/2; FBCR/BouyguesTelecom;FBID/phone;FBLC/f
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.1.0.23513 Mobile/11A465 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A465
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A465 [FBAN/FBIOS;FBAV/5.2.2;FBBV/82131;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0;FBSS/2; FBCR/BouyguesTelecom;FBID/phone;FBLC/fr_F
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A465 [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone4,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP/5]
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/31.0.1650.18 Mobile/11A501 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A501
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A501 [FBAN/FBIOS;FBAV/6.7;FBBV/566055;FBDV/iPhone4,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.2;FBSS/2; FBCR/OrangeFrance;FBID/phone;FBLC/fr_F
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A501 Safari/9537.53
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.1.0.23513 Mobile/11B511 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/31.0.1650.18 Mobile/11B511 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511 Twitter for iPhone
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511 [FBAN/FBIOS;FBAV/6.6;FBBV/446101;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.3;FBSS/2; FBCR/OrangeFrance;FBID/phone;FBLC/fr_F
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511 [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone4,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.3;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP/
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511 [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone6,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.3;FBSS/2; FBCR/Carrier;FBID/phone;FBLC/fr_FR;F
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511 [FBAN/FBIOS;FBAV/6.7;FBBV/566055;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.3;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP/5]
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B511 Safari/9537.53
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.1.0.23513 Mobile/11B554a Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/31.0.1650.18 Mobile/11B554a Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a Twitter for iPhone
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/MobileTeleSystems;FBID/phone;F
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone4,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/BouyguesTelecom;FBID/phone;FBL
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/BouyguesTelecom;FBID/phone;FBL
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/Carrier;FBID/phone;FBLC/fr_FR;
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/Free;FBID/phone;FBLC/fr_FR;FBO
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/Orange;FBID/phone;FBLC/fr_FR;F
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/OrangeFrance;FBID/phone;FBLC/f
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,3;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/Mobistar;FBID/phone;FBLC/fr_FR
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,4;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/Free;FBID/phone;FBLC/fr_FR;FBO
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone5,4;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone6,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/BouyguesTelecom;FBID/phone;FBL
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPhone6,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/Orange;FBID/phone;FBLC/fr_FR;F
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7;FBBV/566055;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/BouyguesTelecom;FBID/phone;FBLC/
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7;FBBV/566055;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/SFR;FBID/phone;FBLC/fr_FR;FBOP/5
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7;FBBV/566055;FBDV/iPhone3,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/Virgin;FBID/phone;FBLC/fr_FR;FBO
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7;FBBV/566055;FBDV/iPhone4,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/Mobistar;FBID/phone;FBLC/fr_FR;F
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7;FBBV/566055;FBDV/iPhone5,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.0.4;FBSS/2; FBCR/fido;FBID/phone;FBLC/fr_FR;FBOP/
+mobile|ios|Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53
+mobile|ios|Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1 like Mac OS X; fr-fr) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7C144 Safari/528.16
+mobile|ios|Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_0 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8A293 Safari/6531.22.7
+mobile|ios|Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; fr-fr) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7
+mobile|ios|Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; fr-fr) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/9A405 Safari/6531.22.7
+mobile|ios|Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+mobile|ios|Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8F190 Safari/6533.18.5
+mobile|ios|Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_4 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5
+mobile|ios|Mozilla/5.0 (iPhone; U; CPU iPhone OS 6_1_3 like Mac OS X; fr_FR) AppleWebKit (KHTML, like Gecko) Mobile [FBAN/FBForIPhone;FBAV/4.1;FBBV/4100.0;FBDV/iPhone3,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/6.1.3;FBSS/2; FBCR/OrangeFrance;FBID/phone;FBLC/fr_F
+mobile|ios|Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en) AppleWebKit/420+ (KHTML, like Gecko) Version/3.0 Mobile/1A543a Safari/419.3
+mobile|ios|Mozilla/5.0 (iPod touch; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53
+mobile|ios|Mozilla/5.0 (iPod; CPU iPhone OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3
+mobile|ios|Mozilla/5.0 (iPod; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPod; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A523 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPod; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.1.0.23513 Mobile/10B329 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPod; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329
+mobile|ios|Mozilla/5.0 (iPod; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPod; CPU iPhone OS 6_1_5 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B400 Safari/8536.25
+mobile|ios|Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2_1 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+mobile|ios|Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3_3 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+mobile|windowsmobile|176|160|Opera/9.80 (Windows Mobile; Opera Mini/5.1.21594/22.387; U; ru) Presto/2.5.25 Version/10.54 VM2809:2
+mobile|windowsmobile|176|160|Opera/9.80 (Windows Mobile; Opera Mini/5.1.21595/25.657; U; en) Presto/2.5.25 Version/10.54 VM2809:2
+mobile|windowsmobile|240|320|Opera/9.80 (Windows Mobile; WCE; Opera Mobi/49; U; en) Presto/2.4.18 Version/10.00 VM2809:2
+mobile|windowsphone|480|800|Mozilla/4.0 (compatible; MSIE 7.0; Windows Phone OS 7.0; Trident/3.1; IEMobile/7.0; Nokia;N70) VM2809:2
+mobile|windowsphone|480|800|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0) VM2809:2
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8S by HTC)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8S by HTC; 1.04.163.03)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8S by HTC; 2.00.163.02)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8S by HTC; 3.29.163.01)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8S by HTC; 4.05.163.02)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8S by HTC; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8X by HTC)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8X by HTC; 1.00.163.03)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8X by HTC; 2.01.163.00)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8X by HTC; 4.12.163.01)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; HTC; Windows Phone 8X by HTC; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; 909)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 620)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 625)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 625; BOUYGUES TELECOM)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 625; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 720)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 820)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 820; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 920)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 920; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 920; Vodafone)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 925)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 925; BOUYGUES TELECOM)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 925; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Nokia 920)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; SAMSUNG; GT-I8750)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Acer; Allegro; bouygues)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; 7 Mozart; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Radar C110e)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Radar; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; TITAN X310e; 4.06.163.03)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Windows Phone 8S by HTC)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Windows Phone 8S by HTC; 3.29.163.01)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Windows Phone 8S by HTC; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Windows Phone 8X by HTC)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; LG; LG-C900)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; LG; LG-E900; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; 909)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 510)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 520)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 520; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 610 NFC; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 610)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 610; 610 BOUYGUES)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 610; SFR)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 620)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 625)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 625; BOUYGUES TELECOM)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 625; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 710)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 710; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 800)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 800; 800 BOUYGUES)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 800; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 800; SFR)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 820)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 900)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 900; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 920)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 920; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 920; Vodafone)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 925)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 925; BOUYGUES TELECOM)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; SAMSUNG; GT-I8750)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; SAMSUNG; OMNIA7)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; SAMSUNG; OMNIA7; Orange)
+mobile|windowsphone|Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; SAMSUNG; SGH-i917)
+tablet|android|Mozilla/5.0 (Android; Tablet; rv:23.0) Gecko/23.0 Firefox/23.0
+tablet|android|Mozilla/5.0 (Android; Tablet; rv:25.0.1) Gecko/25.0.1 Firefox/25.0.1
+tablet|android|Mozilla/5.0 (Linux; Android 4.1.1; A210 Build/JRO03H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
+tablet|android|Mozilla/5.0 (Linux; Android 4.1.1; ASUS Transformer Pad TF300T Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19
+tablet|android|Mozilla/5.0 (Linux; Android 4.1.1; Arc Build/JRO03L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
+tablet|android|Mozilla/5.0 (Linux; Android 4.1.2; GT-N5110 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
+tablet|android|Mozilla/5.0 (Linux; Android 4.1.2; GT-P5110 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
+tablet|android|Mozilla/5.0 (Linux; Android 4.2.2; GT-P5210 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
+tablet|android|Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
+tablet|android|Mozilla/5.0 (Linux; Android 4.3; fr-fr; SAMSUNG SM-P600 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Safari/537.36
+tablet|android|Mozilla/5.0 (Linux; Android 4.4; Nexus 10 Build/KRT16S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
+tablet|android|Mozilla/5.0 (Linux; Android 4.4; Nexus 7 Build/KRT16S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Safari/537.36
+tablet|android|Mozilla/5.0 (Linux; Android 4.4; Nexus 7 Build/KRT16S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
+tablet|android|Mozilla/5.0 (Linux; Android 4.4; Nexus 7 Build/KRT16S) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36
+tablet|android|Mozilla/5.0 (Linux; U; Android 3.1; fr-fr; GT-P7310 Build/HMJ37) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13
+tablet|android|Mozilla/5.0 (Linux; U; Android 3.2.1; fr-fr; A500 Build/HTK55D) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13
+tablet|android|Mozilla/5.0 (Linux; U; Android 3.2.1; fr-fr; AT100 Build/HTK55D) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.0.3; fr-fr; Sony Tablet S Build/TISU0143) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.0.3; fr-fr; Transformer TF101 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; SHT21 Build/S2150) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; GT-P5110 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.0.4; fr-fr; XOOM 2 ME Build/7.7.1-128_MZ608-14) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; GT-P5110 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; A210 Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; ARCHOS 101 Titanium Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; E1031 Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; GT-P5110 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; MID0848 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.1; fr-fr; MPDC99 BT IPS Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-N5110 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-N8010 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-P3110 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-P5110 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.2.2; fr-fr; A1-810 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.2.2; fr-fr; GT-P5113 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.2.2; fr-fr; GT-P5210 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+tablet|android|Mozilla/5.0 (Linux; U; Android 4.3; fr-fr; GT-P5110 Build/JLS36G) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30 CyanogenMod/10.2/p5110
+tablet|ios|176|160|Opera/9.80 (iPad; Opera Mini/7.1.32694/27.1407; U; en) Presto/2.8.119 Version/11.10 VM2809:2
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A523 Safari/8536.25
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B141 Safari/8536.25
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/28.0.1500.12 Mobile/10B146 Safari/8536.25
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B146 Safari/8536.25
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B147 Safari/8536.25
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.1.0.23513 Mobile/10B329 Safari/8536.25
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 [FBAN/FBIOS;FBAV/6.7.1;FBBV/583225;FBDV/iPad3,4;FBMD/iPad;FBSN/iPhone OS;FBSV/6.1.3;FBSS/2; FBCR/;FBID/tablet;FBLC/fr_FR;FBOP/1]
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A501 [FBAN/FBIOS;FBAV/6.7;FBBV/566055;FBDV/iPad2,2;FBMD/iPad;FBSN/iPhone OS;FBSV/7.0.2;FBSS/1; FBCR/Carrier;FBID/tablet;FBLC/fr_FR;FBOP/1]
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A501 Safari/9537.53
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/28.0.1500.16 Mobile/11B511 Safari/8536.25
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.1.0.23513 Mobile/11B511 Safari/8536.25
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/30.0.1599.16 Mobile/11B511 Safari/8536.25
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511 [FBAN/FBIOS;FBAV/6.7.1;FBBV/583225;FBDV/iPad3,1;FBMD/iPad;FBSN/iPhone OS;FBSV/7.0.3;FBSS/2; FBCR/;FBID/tablet;FBLC/fr_FR;FBOP/1]
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B511 [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPad2,2;FBMD/iPad;FBSN/iPhone OS;FBSV/7.0.3;FBSS/1; FBCR/Proximus;FBID/tablet;FBLC/fr_FR;FBOP/1]
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B511 Safari/9537.53
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.1.0.23513 Mobile/11B554a Safari/8536.25
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/30.0.1599.16 Mobile/11B554a Safari/8536.25
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a Twitter for iPhone
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.6;FBBV/446101;FBDV/iPad2,4;FBMD/iPad;FBSN/iPhone OS;FBSV/7.0.4;FBSS/1; FBCR/;FBID/tablet;FBLC/fr_FR;FBOP/1]
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a [FBAN/FBIOS;FBAV/6.7.2;FBBV/603804;FBDV/iPad2,5;FBMD/iPad;FBSN/iPhone OS;FBSV/7.0.4;FBSS/1; FBCR/;FBID/tablet;FBLC/fr_FR;FBOP/1]
+tablet|ios|Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53
+tablet|ios|Mozilla/5.0 (iPad; U; CPU OS 4_2_1 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+tablet|ios|Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5
+tablet|ios|Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; fr-fr) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J3 Safari/6533.18.5
+tablet|ios|Mozilla/5.0 (iPad; U; CPU OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3
+tablet|ios|Mozilla/5.0 (iPad; U; CPU OS 5_0 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3
+tablet|ios|Mozilla/5.0 (iPad;U;CPU OS 5_1_1 like Mac OS X; zh-cn)AppleWebKit/534.46.0(KHTML, like Gecko)CriOS/19.0.1084.60 Mobile/9B206 Safari/7534.48.3
+# Known false-positive, currently unmatched
+#android|unknown|800|600|Mozilla/5.0 (Android; WOW64; Linux armv7l;rv:5.0) Gecko/20110603 Firefox/5.0 Fennec/5.0 VM2809:2
+#android|unknown|800|600|Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.13) Gecko/20101203 Mozilla/5.O(Android;Linux armv7l;rv:2.1) Gecko/20110318 Firefox/4.0b13pre Fennec/4.0 ( .NET CLR 3.5.30729) VM2809:2
+#generic|unknown|Nokia6085/2.0 (06.00) Profile/MIDP-2.0 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; fr-FR; nokia6085) U2/1.0.0 UCBrowser/9.1.0.291 U2/1.0.0 Mobile UNTRUSTED/1.0
+#mobile|android|320|480|Mozilla/5.0 (Android) Gecko Firefox Fennec/4.0 VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android) Gecko/20110318 Firefox/4.0 Fennec/4.0 VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android; Linux arm71; rv:2.1.1) Gecko/20110415 Firefox/4.0.2pre Fennec/4.0.1 VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android; Linux arm7l; rv:2.1.1) Gecko/20110415 Firefox/4.0.2pre Fennec/4.0.1 VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android; Linux armv71; rv:2.1) Gecko/20110318 Firefox/4.0b13pre Fennec/4.0 VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android; Linux armv71; rv:5.0) Gecko/20110615 Fennec/5.0 VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android; Linux armv7l; rv:2.0) Gecko/20110103 Firefox/4.0 Fennec/4.0 VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android; Linux armv7l; rv:2.0.1) Gecko/20100101 Fennec/2.0.1 VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android; Linux armv7l; rv:2.0b9pre) Gecko/20110103 Firefox/4.0b9pre Fennec/4.0b4pre VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android; Linux armv7l; rv:2.1) Gecko/20110318 Firefox/4.0b13pre Fennec/4.0 VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android; Linux armv7l; rv:2.1.1) Gecko/20110415 Fennec/4.0.1 VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android; Linux armv7l; rv:2.1.1) Gecko/20110415 Firefox/4.0.2pre Fennec/4.0.1 VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android; Linux armv7l; rv:2.2a1pre) Gecko/20110402 Firefox/4.2a1pre Fennec/4.1a1pre VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android; Linux armv7l; rv:2.2a1pre) Gecko/20110403 Firefox/4.2a1pre Fennec/4.1a1pre VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android; Linux armv7l; rv:5.0) Gecko/20110517 Firefox/5.0 Fennec/5.0 VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android; Linux armv7l; rv:5.0) Gecko/20110614 Firefox/5.0 Fennec/5.0 VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android; Linux armv7l; rv:5.0) Gecko/20110615 Firefox/5.0 Fennec/5.0 VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android; Linux armv7l; rv:9.0) Gecko/20111216 Firefox/9.0 Fennec/9.0 VM2809:2
+#mobile|android|320|480|Mozilla/5.0 (Android; Linux armv7l;rv:5.0) Gecko/20110603 Firefox/5.0 Fennec/5.0 VM2809:2
+#mobile|android|320|480|Opera/12.02 (Android 4.1; Linux; Opera Mobi/ADR-1111101157; U; en-US) Presto/2.9.201 Version/12.02 VM2809:2
 #mobile|android|Dalvik/1.6.0 (Linux; U; Android 4.0.3; LG-E610 Build/IML74K)
 #mobile|android|Dalvik/1.6.0 (Linux; U; Android 4.1.1; HTC One S Build/JRO03C)
 #mobile|android|Dalvik/1.6.0 (Linux; U; Android 4.1.2; C1905 Build/15.1.A.1.9)
-#tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-P3110 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+#mobile|android|Opera/9.80 (Android 4.0.3; Linux; Opera Mobi/ADR-1210091050) Presto/2.11.355 Version/12.10
+#mobile|android|Opera/9.80 (Android; Opera Mini/16.0.1212/32.1312; U; fr) Presto/2.8.119 Version/11.10
+#mobile|android|Opera/9.80 (Android; Opera Mini/7.28879/27.1662; U; fr-fr) Presto/2.8.119 Version/11.10 UCBrowser/8.6.1.262/145/444/
+#mobile|android|Opera/9.80 (Android; Opera Mini/7.5.33361/32.1312; U; en) Presto/2.8.119 Version/11.10
+#mobile|android|Opera/9.80 (Android; Opera Mini/7.5.33361/32.1312; U; fr) Presto/2.8.119 Version/11.10
 #mobile|unknown|Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8500-ORANGE/S8500BVJK1; U; Bada/1.0; fr-fr) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
 #mobile|unknown|Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8530-ORANGE/S8530BVKA1; U; Bada/1.2; fr-fr) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.2 Mobile WVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
 #mobile|unknown|Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8600-ORANGE/S8600BVKK3; U; Bada/2.0; fr-fr) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile WVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
 #mobile|unknown|Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8600/S8600XXLC3; U; Bada/2.0; fr-fr) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
 #mobile|unknown|Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8600/S8600XXLL3; U; Bada/2.0; fr-fr) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
 #mobile|unknown|Mozilla/5.0 (Symbian/3; Series60/5.2 Nokia500/010.029; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.37 Mobile Safari/533.4 3gpp-gba
-#generic|unknown|Nokia6085/2.0 (06.00) Profile/MIDP-2.0 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; fr-FR; nokia6085) U2/1.0.0 UCBrowser/9.1.0.291 U2/1.0.0 Mobile UNTRUSTED/1.0
-#mobile|android|Opera/9.80 (Android 4.0.3; Linux; Opera Mobi/ADR-1210091050) Presto/2.11.355 Version/12.10
-#mobile|android|Opera/9.80 (Android; Opera Mini/16.0.1212/32.1312; U; fr) Presto/2.8.119 Version/11.10
-#mobile|android|Opera/9.80 (Android; Opera Mini/7.28879/27.1662; U; fr-fr) Presto/2.8.119 Version/11.10 UCBrowser/8.6.1.262/145/444/
-#mobile|android|Opera/9.80 (Android; Opera Mini/7.5.33361/32.1312; U; en) Presto/2.8.119 Version/11.10
-#mobile|android|Opera/9.80 (Android; Opera Mini/7.5.33361/32.1312; U; fr) Presto/2.8.119 Version/11.10
+#mobile|windowsphone|176|160|Mozilla/4.0 (compatible; Windows Mobile; WCE; Opera Mobi/WMD-50433; U; de) Presto/2.4.13 Version/10.00 VM2809:2
+#tablet|android|480|800|Mozilla/5.0 (Linux; U; Android 2.3; en-us) AppleWebKit/999+ (KHTML, like Gecko) Safari/999.9 VM2809:2
+#tablet|android|Mozilla/5.0 (Linux; U; Android 4.1.2; fr-fr; GT-P3110 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+
