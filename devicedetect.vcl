@@ -29,6 +29,9 @@ sub devicedetect {
         } elseif (req.http.User-Agent ~ "(?i)windows phone" || req.http.User-Agent ~ "(?i)windowsphone") { // Should we match IEMobile too or instead?
             set req.http.X-UA-Device-Type = "mobile";
             set req.http.X-UA-Device-OS   = "windowsphone";
+        } elseif (req.http.User-Agent ~ "(?i)windows mobile" || req.http.User-Agent ~ "(?i)windowsmobile") { // Not sure if it makes sense
+            set req.http.X-UA-Device-Type = "mobile";
+            set req.http.X-UA-Device-OS   = "windowsmobile";
         } elseif (req.http.User-Agent ~ "(?i)blackberry[0-9]?" || req.http.User-Agent ~ "(?i)BB10") {
             set req.http.X-UA-Device-OS   = "blackberry";
             // For now, let's assume all blackberry devices are mobile
