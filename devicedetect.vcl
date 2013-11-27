@@ -20,11 +20,20 @@ sub devicedetect {
                 set req.http.X-UA-Device-Type = "mobile";
             } elseif (req.http.User-Agent ~ "(?i)android 3") { // looks like android 3/honeycomb are mostly tablet-only
                 set req.http.X-UA-Device-Type = "tablet";
+            } elseif (req.http.User-Agent ~ "(?i)android 2") { // it should not exist any tablet prior to android 3
+                set req.http.X-UA-Device-Type = "mobile";
+            } else {
+                // fallback on tablet
+                set req.http.X-UA-Device-Type = "tablet";
             }
-            // fallback on tablet
-            set req.http.X-UA-Device-Type = "tablet";
-        } elseif (req.http.user-Agent ~ "(?i)windows") {
-            set req.http.X-UA-Device-OS = "windows";
+        } elseif (req.http.User-Agent ~ "(?i)windows phone" || req.http.User-Agent ~ "(?i)windowsphone") { // Should we match IEMobile too or instead?
+            set req.http.X-UA-Device-Type = "mobile";
+            set req.http.X-UA-Device-OS   = "windowsphone";
+        } elseif (req.http.User-Agent ~ "(?i)blackberry[0-9]?" || req.http.User-Agent ~ "(?i)BB10") {
+            set req.http.X-UA-Device-OS   = "blackberry";
+            // For now, let's assume all blackberry devices are mobile
+            // Afaik, it does not exist blackberry tablets
+            set req.http.X-UA-Device-Type = "mobile";
         }
     }
 }
